@@ -5,11 +5,14 @@ How to Sign In Keeper Account: A Step-by-Step Guide
    :maxdepth: 2
    :caption: Contents:
 
-For Sign IN Keepar Account, go to 👉 https://keeperaccount.net
-
-
 
 Pet owners who want to know their pets are secure have come to trust Tractive GPS trackers. Tractive devices let you keep an eye on your pet with real-time location tracking, activity monitoring, and virtual fencing. But, like any GPS-enabled device, the maps' accuracy and dependability are very important to how effectively it works. Keeping the maps up to current is vital so that your Tractive tracker always offers you the most up-to-date location data.
+
+.. image:: click-sign-in.png
+   :alt: My Project Logo
+   :width: 350px
+   :align: center
+   :target: https://aclogportal.com/
 
 A lot of people only think about the live tracking aspect, but they don't often think about the map data that makes it work. If you reside in an area where streets or paths have changed or if you want to take your pet to new places, you need to have updated maps to get clear, accurate information.
 
